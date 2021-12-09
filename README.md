@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/N0vali/react-authentification-back">
-    <img src="https://ibb.co/Ct6rBp1" alt="Logo" width="80" height="80">
+    <img src="https://github.com/N0vali/react-authentification-back/blob/main/snippet-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Back authentification Snippet</h3>
